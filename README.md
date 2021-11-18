@@ -14,6 +14,6 @@ Some model of encoding point cloud to features
 
 ##Transformer-based Network for Point Cloud Completion 
 
-Created by [Lei Tan](https://Hello-hubKing.github.io/),Xiuyang Zhao\* et.a
+Created by [Lei Tan](https://Tan.github.io/),Xiuyang Zhao\* et.a
 
 ![intro](fig/result.jpg)
